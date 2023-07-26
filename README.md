@@ -1,4 +1,23 @@
-# WeChat - React Js Chat App
+# ChitChat - React Js Chat App
+## Introduction:
+A cutting-edge Full-Stack MERN (MongoDB, Express.js, React.js, Node.js) Chat App that I developed for a client. This sophisticated application brings together a wide array of essential chat functionalities and features, fostering seamless communication and collaboration among users. From user registration to media sharing, group calls to personalized settings, this comprehensive chat app offers a delightful and intuitive user experience.
+## Key Features:
+* 		Secure Authentication System: The app boasts a robust user authentication system, allowing users to register, log in, and reset their passwords securely. Utilizing industry-standard encryption techniques, the chat app ensures the confidentiality of user data.
+* 		Real-Time Chat: The heart of the application lies in its real-time chat functionality. Users can engage in instant messaging, view chat history, and enjoy dynamic updates as messages are sent and received in real-time.
+* 		Conversations & Group Calls: Users have the ability to create and participate in both one-on-one conversations and group chats. Additionally, the app supports group calls, enabling multiple users to communicate efficiently.
+* 		Media, Files, and Links: The chat app enables seamless sharing of media files, documents, and website links. Users can easily exchange photos, videos, audio clips, and important files, promoting effective collaboration.
+* 		Starred Messages: To ensure that essential messages are easily accessible, users can star important messages. This feature facilitates quick reference to crucial information amidst ongoing conversations.
+* 		Customizable Theming: The application provides users with the freedom to personalize their chat experience. By offering theming options and dark/light mode selections, the app caters to diverse user preferences.
+* 		Profile Management: Users can manage their profiles effortlessly. From updating personal information to changing profile pictures, the app ensures a user-friendly experience when modifying profiles.
+* 		Emoji Pickers: Enhancing the chat experience, the app incorporates interactive emoji pickers, enabling users to add emotions and expressions to their messages effortlessly.
+* 
+## Technical Implementation:
+Developed using the MERN stack, the chat app leverages the power of MongoDB for data storage, Express.js for server-side routing, React.js for building an interactive user interface, and Node.js for server-side JavaScript execution. Socket.io facilitates real-time communication, empowering seamless messaging between users
+.
+## Conclusion:
+My Full-Stack MERN Chat App represents a testament to my expertise in developing highly functional and feature-rich applications. Combining a secure authentication system, real-time chat, media sharing, group calls, and customizable theming, this app caters to the modern user's communication needs. I am excited to share this project in my portfolio, showcasing my ability to create innovative and user-centric solutions.
+
+
 
 **live demo: [https://react-chat-app-kohl.vercel.app/app](https://react-chat-app-kohl.vercel.app/app)**
 
@@ -7,15 +26,6 @@
 ### Made with ❤️ by [Dulanjali Senarathna](https://www.linkedin.com/in/dulanjali-senarathna/)
 
 ---
-
-## Project Description
-
-Mainly focused on react js front-end development. I used css for styling. Also, this application used React Context API and redux for state management.
-
-This chat app has basic chat app functionalities such as login, register, reset password, chat, conversation, group call, contact, starred messages, medial, files and links, settings, profile, edit profile, emoji pickers and etc. We can implement all the features using backend in future. 
-
-You can change theming colors and dark and light modes by clicking settings icon in bottom-left cornaer.
-
 ## What I used
 
 - [React](https://reactjs.org/)
@@ -54,24 +64,6 @@ npm run start
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
 
 ---
-
-## FAQ
-
-### Q: What are the prerequisites?
-
-basics of html, css, javascript and some basic knowledge of react is enough to start this project. Rest you will learn in the tutorial.
-
-### Q: Who the project is for?
-
-The project is for the people who wanna get more skilled in `ReactJs`.
-
----
-
-## Feedback
-
-If you have any feedback, please reach out to us at [Dulanjali Senarathna](https://www.behance.net/dulanjasenarathna)
-
-Happy Coding! 🚀
 
 # Website's screenshots
 
