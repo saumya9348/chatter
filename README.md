@@ -1,15 +1,23 @@
 # ChitChat - React Js Chat App
 ## Introduction:
 A cutting-edge Full-Stack MERN (MongoDB, Express.js, React.js, Node.js) Chat App that I developed for a client. This sophisticated application brings together a wide array of essential chat functionalities and features, fostering seamless communication and collaboration among users. From user registration to media sharing, group calls to personalized settings, this comprehensive chat app offers a delightful and intuitive user experience.
-## Key Features:
-* 		Secure Authentication System: The app boasts a robust user authentication system, allowing users to register, log in, and reset their passwords securely. Utilizing industry-standard encryption techniques, the chat app ensures the confidentiality of user data.
-* 		Real-Time Chat: The heart of the application lies in its real-time chat functionality. Users can engage in instant messaging, view chat history, and enjoy dynamic updates as messages are sent and received in real-time.
-* 		Conversations & Group Calls: Users have the ability to create and participate in both one-on-one conversations and group chats. Additionally, the app supports group calls, enabling multiple users to communicate efficiently.
-* 		Media, Files, and Links: The chat app enables seamless sharing of media files, documents, and website links. Users can easily exchange photos, videos, audio clips, and important files, promoting effective collaboration.
-* 		Starred Messages: To ensure that essential messages are easily accessible, users can star important messages. This feature facilitates quick reference to crucial information amidst ongoing conversations.
-* 		Customizable Theming: The application provides users with the freedom to personalize their chat experience. By offering theming options and dark/light mode selections, the app caters to diverse user preferences.
-* 		Profile Management: Users can manage their profiles effortlessly. From updating personal information to changing profile pictures, the app ensures a user-friendly experience when modifying profiles.
-* 		Emoji Pickers: Enhancing the chat experience, the app incorporates interactive emoji pickers, enabling users to add emotions and expressions to their messages effortlessly.
+## Key 
+#### Secure Authentication System:
+ The app boasts a robust user authentication system, allowing users to register, log in, and reset their passwords securely. Utilizing industry-standard encryption techniques, the chat app ensures the confidentiality of user data.
+#### Real-Time Chat:
+ The heart of the application lies in its real-time chat functionality. Users can engage in instant messaging, view chat history, and enjoy dynamic updates as messages are sent and received in real-time.
+#### Conversations & Group Calls:
+ Users have the ability to create and participate in both one-on-one conversations and group chats. Additionally, the app supports group calls, enabling multiple users to communicate efficiently.
+#### Media, Files, and Links:
+ The chat app enables seamless sharing of media files, documents, and website links. Users can easily exchange photos, videos, audio clips, and important files, promoting effective collaboration.
+#### Starred Messages:
+ To ensure that essential messages are easily accessible, users can star important messages. This feature facilitates quick reference to crucial information amidst ongoing conversations.
+#### Customizable Theming:
+ The application provides users with the freedom to personalize their chat experience. By offering theming options and dark/light mode selections, the app caters to diverse user preferences.
+#### Profile Management:
+ Users can manage their profiles effortlessly. From updating personal information to changing profile pictures, the app ensures a user-friendly experience when modifying profiles.
+#### Emoji Pickers:
+ Enhancing the chat experience, the app incorporates interactive emoji pickers, enabling users to add emotions and expressions to their messages effortlessly.
 * 
 ## Technical Implementation:
 Developed using the MERN stack, the chat app leverages the power of MongoDB for data storage, Express.js for server-side routing, React.js for building an interactive user interface, and Node.js for server-side JavaScript execution. Socket.io facilitates real-time communication, empowering seamless messaging between users
