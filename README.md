@@ -1,7 +1,7 @@
 # ChitChat - React Js Chat App
 ## Introduction:
 A cutting-edge Full-Stack MERN (MongoDB, Express.js, React.js, Node.js) Chat App that I developed for a client. This sophisticated application brings together a wide array of essential chat functionalities and features, fostering seamless communication and collaboration among users. From user registration to media sharing, group calls to personalized settings, this comprehensive chat app offers a delightful and intuitive user experience.
-## Key 
+## Key Features:
 #### Secure Authentication System:
  The app boasts a robust user authentication system, allowing users to register, log in, and reset their passwords securely. Utilizing industry-standard encryption techniques, the chat app ensures the confidentiality of user data.
 #### Real-Time Chat:
